@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoffeeOrder</string>
+    <string name="total">0</string>
+    <string name="quantity">0</string>
+</resources>
